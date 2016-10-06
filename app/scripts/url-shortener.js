@@ -2,7 +2,7 @@ import Config from './config.js'
 
 export default class UrlShortener {
   constructor() {
-    let key = 'YOURKEY'
+    let key = 'AIzaSyCTtKM674c2q5nD4iAz8RGQxUBheZEulfw'
     this.config = new Config()
     this.serviceUrl = `https://www.googleapis.com/urlshortener/v1/url?fields=id&key=${key}`
     this.baseUrl = this.config.get('baseUrl')
