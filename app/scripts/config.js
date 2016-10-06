@@ -6,8 +6,8 @@ export default class Config {
         shortBaseUrl: 'https://goo.gl/'
       },
 
-      'watchtor.herokuapp.com': {
-        baseUrl: '//watchtor.herokuapp.com',
+      'damp-coast-12217.herokuapp.com': {
+        baseUrl: '//damp-coast-12217.herokuapp.com',
         shortBaseUrl: 'https://goo.gl/'
       }
     }
